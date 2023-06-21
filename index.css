@@ -1,0 +1,9 @@
+.bgimg {
+    background-image: url('/images/bgimg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.padx{
+    padding-left: 150px;
+    padding-right: 150px;
+}
