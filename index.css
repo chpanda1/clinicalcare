@@ -7,6 +7,12 @@
     padding-left: 150px;
     padding-right: 150px;
 }
+.patienttab {
+    border: 3px solid black;
+}
+th, td {
+    border: 1px solid black;
+}
 button {
     width: 140px;
     border: 0;
